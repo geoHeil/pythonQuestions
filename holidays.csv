@@ -1,0 +1,190 @@
+day,name,type
+2013-01-01,NewYearsDay,National holiday
+2013-01-06,Epiphany,National holiday
+2013-03-20,Marchequinox,Season
+2013-03-24,PalmSunday,Observance
+2013-03-29,GoodFriday,Observance
+2013-03-31,DaylightSavingTimestarts,Clock change/Daylight Saving Time
+2013-03-31,EasterDay,Observance
+2013-04-01,EasterMonday,National holiday
+2013-05-01,LaborDayMayDay,National holiday
+2013-05-09,AscensionDay,National holiday
+2013-05-19,WhitSunday,Observance
+2013-05-20,WhitMonday,National holiday
+2013-05-30,CorpusChristi,National holiday
+2013-06-21,JuneSolstice,Season
+2013-08-15,AssumptionofMary,National holiday
+2013-09-22,Septemberequinox,Season
+2013-10-26,NationalDay,National holiday
+2013-10-27,DaylightSavingTimeends,Clock change/Daylight Saving Time
+2013-11-01,AllSaintsDay,National holiday
+2013-11-02,AllSoulsDay,Observance
+2013-12-01,FirstSundayAdvent,Observance
+2013-12-08,ImmaculateConception,National holiday
+2013-12-21,DecemberSolstice,Season
+2013-12-24,ChristmasEve,Observance
+2013-12-25,ChristmasDay,National holiday
+2013-12-26,StStephensDay,National holiday
+2013-12-31,NewYearsEve,Observance
+2014-01-01,NewYearsDay,National holiday
+2014-01-06,Epiphany,National holiday
+2014-03-20,Marchequinox,Season
+2014-03-30,DaylightSavingTimestarts,Clock change/Daylight Saving Time
+2014-04-13,PalmSunday,Observance
+2014-04-18,GoodFriday,Observance
+2014-04-20,EasterDay,Observance
+2014-04-21,EasterMonday,National holiday
+2014-05-01,LaborDayMayDay,National holiday
+2014-05-29,AscensionDay,National holiday
+2014-06-08,WhitSunday,Observance
+2014-06-09,WhitMonday,National holiday
+2014-06-19,CorpusChristi,National holiday
+2014-06-21,JuneSolstice,Season
+2014-08-15,AssumptionofMary,National holiday
+2014-09-23,Septemberequinox,Season
+2014-10-26,DaylightSavingTimeends,Clock change/Daylight Saving Time
+2014-10-26,NationalDay,National holiday
+2014-11-01,AllSaintsDay,National holiday
+2014-11-02,AllSoulsDay,Observance
+2014-11-30,FirstSundayAdvent,Observance
+2014-12-08,ImmaculateConception,National holiday
+2014-12-21,DecemberSolstice,Season
+2014-12-24,ChristmasEve,Bank holiday
+2014-12-25,ChristmasDay,National holiday
+2014-12-26,StStephensDay,National holiday
+2014-12-31,NewYearsEve,Observance
+2015-01-01,NewYearsDay,National holiday
+2015-01-06,Epiphany,National holiday
+2015-03-20,Marchequinox,Season
+2015-03-29,PalmSunday,Observance
+2015-03-29,DaylightSavingTimestarts,Clock change/Daylight Saving Time
+2015-04-03,GoodFriday,Observance
+2015-04-05,EasterDay,Observance
+2015-04-06,EasterMonday,National holiday
+2015-05-01,LaborDayMayDay,National holiday
+2015-05-14,AscensionDay,National holiday
+2015-05-24,WhitSunday,Observance
+2015-05-25,WhitMonday,National holiday
+2015-06-04,CorpusChristi,National holiday
+2015-06-21,JuneSolstice,Season
+2015-08-15,AssumptionofMary,National holiday
+2015-09-23,Septemberequinox,Season
+2015-10-25,DaylightSavingTimeends,Clock change/Daylight Saving Time
+2015-10-26,NationalDay,National holiday
+2015-11-01,AllSaintsDay,National holiday
+2015-11-02,AllSoulsDay,Observance
+2015-11-29,FirstSundayAdvent,Observance
+2015-12-08,ImmaculateConception,National holiday
+2015-12-22,DecemberSolstice,Season
+2015-12-24,ChristmasEve,Bank holiday
+2015-12-25,ChristmasDay,National holiday
+2015-12-26,StStephensDay,National holiday
+2015-12-31,NewYearsEve,Observance
+2016-01-01,NewYearsDay,National holiday
+2016-01-06,Epiphany,National holiday
+2016-03-20,PalmSunday,Observance
+2016-03-20,Marchequinox,Season
+2016-03-25,GoodFriday,Observance
+2016-03-27,DaylightSavingTimestarts,Clock change/Daylight Saving Time
+2016-03-27,EasterDay,Observance
+2016-03-28,EasterMonday,National holiday
+2016-05-01,LaborDayMayDay,National holiday
+2016-05-05,AscensionDay,National holiday
+2016-05-15,WhitSunday,Observance
+2016-05-16,WhitMonday,National holiday
+2016-05-26,CorpusChristi,National holiday
+2016-06-20,JuneSolstice,Season
+2016-08-15,AssumptionofMary,National holiday
+2016-09-22,Septemberequinox,Season
+2016-10-26,NationalDay,National holiday
+2016-10-30,DaylightSavingTimeends,Clock change/Daylight Saving Time
+2016-11-01,AllSaintsDay,National holiday
+2016-11-02,AllSoulsDay,Observance
+2016-11-27,FirstSundayAdvent,Observance
+2016-12-08,ImmaculateConception,National holiday
+2016-12-21,DecemberSolstice,Season
+2016-12-24,ChristmasEve,Bank holiday
+2016-12-25,ChristmasDay,National holiday
+2016-12-26,StStephensDay,National holiday
+2016-12-31,NewYearsEve,Observance
+2017-01-01,NewYearsDay,National holiday
+2017-01-06,Epiphany,National holiday
+2017-03-20,Marchequinox,Season
+2017-03-26,DaylightSavingTimestarts,Clock change/Daylight Saving Time
+2017-04-09,PalmSunday,Observance
+2017-04-14,GoodFriday,Observance
+2017-04-16,EasterDay,Observance
+2017-04-17,EasterMonday,National holiday
+2017-05-01,LaborDayMayDay,National holiday
+2017-05-25,AscensionDay,National holiday
+2017-06-04,WhitSunday,Observance
+2017-06-05,WhitMonday,National holiday
+2017-06-15,CorpusChristi,National holiday
+2017-06-21,JuneSolstice,Season
+2017-08-15,AssumptionofMary,National holiday
+2017-09-22,Septemberequinox,Season
+2017-10-26,NationalDay,National holiday
+2017-10-29,DaylightSavingTimeends,Clock change/Daylight Saving Time
+2017-11-01,AllSaintsDay,National holiday
+2017-11-02,AllSoulsDay,Observance
+2017-12-03,FirstSundayAdvent,Observance
+2017-12-08,ImmaculateConception,National holiday
+2017-12-21,DecemberSolstice,Season
+2017-12-24,ChristmasEve,Bank holiday
+2017-12-25,ChristmasDay,National holiday
+2017-12-26,StStephensDay,National holiday
+2017-12-31,NewYearsEve,Observance
+2018-01-01,NewYearsDay,National holiday
+2018-01-06,Epiphany,National holiday
+2018-03-20,Marchequinox,Season
+2018-03-25,PalmSunday,Observance
+2018-03-25,DaylightSavingTimestarts,Clock change/Daylight Saving Time
+2018-03-30,GoodFriday,Observance
+2018-04-01,EasterDay,Observance
+2018-04-02,EasterMonday,National holiday
+2018-05-01,LaborDayMayDay,National holiday
+2018-05-10,AscensionDay,National holiday
+2018-05-20,WhitSunday,Observance
+2018-05-21,WhitMonday,National holiday
+2018-05-31,CorpusChristi,National holiday
+2018-06-21,JuneSolstice,Season
+2018-08-15,AssumptionofMary,National holiday
+2018-09-23,Septemberequinox,Season
+2018-10-26,NationalDay,National holiday
+2018-10-28,DaylightSavingTimeends,Clock change/Daylight Saving Time
+2018-11-01,AllSaintsDay,National holiday
+2018-11-02,AllSoulsDay,Observance
+2018-12-02,FirstSundayAdvent,Observance
+2018-12-08,ImmaculateConception,National holiday
+2018-12-21,DecemberSolstice,Season
+2018-12-24,ChristmasEve,Bank holiday
+2018-12-25,ChristmasDay,National holiday
+2018-12-26,StStephensDay,National holiday
+2018-12-31,NewYearsEve,Observance
+2019-01-01,NewYearsDay,National holiday
+2019-01-06,Epiphany,National holiday
+2019-03-20,Marchequinox,Season
+2019-03-31,DaylightSavingTimestarts,Clock change/Daylight Saving Time
+2019-04-14,PalmSunday,Observance
+2019-04-19,GoodFriday,Observance
+2019-04-21,EasterDay,Observance
+2019-04-22,EasterMonday,National holiday
+2019-05-01,LaborDayMayDay,National holiday
+2019-05-30,AscensionDay,National holiday
+2019-06-09,WhitSunday,Observance
+2019-06-10,WhitMonday,National holiday
+2019-06-20,CorpusChristi,National holiday
+2019-06-21,JuneSolstice,Season
+2019-08-15,AssumptionofMary,National holiday
+2019-09-23,Septemberequinox,Season
+2019-10-26,NationalDay,National holiday
+2019-10-27,DaylightSavingTimeends,Clock change/Daylight Saving Time
+2019-11-01,AllSaintsDay,National holiday
+2019-11-02,AllSoulsDay,Observance
+2019-12-01,FirstSundayAdvent,Observance
+2019-12-08,ImmaculateConception,National holiday
+2019-12-22,DecemberSolstice,Season
+2019-12-24,ChristmasEve,Bank holiday
+2019-12-25,ChristmasDay,National holiday
+2019-12-26,StStephensDay,National holiday
+2019-12-31,NewYearsEve,Observance
